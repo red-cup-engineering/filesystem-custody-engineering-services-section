@@ -3,5 +3,10 @@
   "private": true,
   "type": "module",
   "description": "Owns POSIX workspace access receipts; version control consumes those receipts downstream.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/computer-file-engineering-services-section.git",
+    "directory": "services/filesystem-custody-services-section"
+  },
   "version": "0.1.0"
 }
