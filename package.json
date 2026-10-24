@@ -1,11 +1,11 @@
 {
-  "name": "@red-cup-engineering/filesystem-custody-services-section",
+  "name": "@red-cup-engineering/filesystem-custody-engineering-services-section",
   "private": true,
   "type": "module",
   "description": "Owns POSIX workspace access receipts; version control consumes those receipts downstream.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/filesystem-custody-services-section.git"
+    "url": "git+https://github.com/red-cup-engineering/filesystem-custody-engineering-services-section.git"
   },
   "version": "0.1.0",
   "license": "MIT",
